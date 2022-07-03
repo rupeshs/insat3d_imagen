@@ -1,0 +1,5 @@
+from insat3d_imagen import __version__
+
+
+def test_version():
+    assert __version__ == '0.1.0'

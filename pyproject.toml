@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "insat3d-imagen"
+version = "0.1.0"
+description = "Processes INSAT 3D imager data"
+authors = ["Rupesh Sreeraman <exmplayer.dev@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "3.10"
+h5py = "^3.7.0"
+Pillow = "^9.1.1"
+numpy = "^1.22.4"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+black = "^22.3.0"
+mypy = "^0.961"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
