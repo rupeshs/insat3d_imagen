@@ -4,7 +4,7 @@ INSAT 3D image generator.
 
 Processes INSAT HDF file and generates satellite images.
 
-![INSAT 3D Imagen demo]("outputs/insat3d_imagen.jpg")
+![INSAT 3D Imagen demo](https://github.com/rupeshs/insat3d_imagen/blob/main/outputs/image_dmp_rgb.png)
 
 
 8 types of image outputs supported:
